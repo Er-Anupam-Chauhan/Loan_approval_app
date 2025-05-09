@@ -1,0 +1,8 @@
+pandas
+numpy 
+seaborn 
+pickle
+streamlit 
+sklearn
+imblearn
+logger
